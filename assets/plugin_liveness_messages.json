@@ -1,0 +1,14 @@
+{
+  "en": {
+    "text_tittle": "Starting capture",
+    "text_loading": "Please wait"
+  },
+  "es": {
+    "text_tittle": "Iniciando captura",
+    "text_loading": "Por favor, espere"
+  },
+  "fr": {
+    "text_tittle": "Démarrer la capture",
+    "text_loading": "S'il vous plaît, attendez"
+  }
+}

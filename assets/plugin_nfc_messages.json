@@ -1,0 +1,15 @@
+{
+    "en": {
+      "waiting": "Waiting for NFC...",
+      "reading": "Reading NFC..."
+    },
+    "es": {
+      "waiting": "Esperando acercamiento de NFC...",
+      "reading": "Leyendo NFC..."
+    },
+    "fr": {
+      "waiting": "En attente de NFC...",
+      "reading": "Lecture de NFC..."
+    }
+  }
+  
